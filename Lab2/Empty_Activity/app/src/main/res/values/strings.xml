@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Empty_Activity</string>
+    <string name="str_rus">Сгенерировать</string>
+    <string name="clickbut">onclick</string>
+    <string name="onClick">onCliokButLabel1</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+</resources>
